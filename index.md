@@ -1,5 +1,5 @@
 Milestone report
-* [25 participants](report_n25.html)
+* [Report 1 (Pilot)](report_n25.html)
 
 Participant Records
 
